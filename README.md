@@ -5,3 +5,9 @@
 
 
 [Пример моего тестового задания](https://docs.google.com/spreadsheets/d/1EFY77hxL_lz2AsgqmOyVW1Dd-5VIyYJP4gcjmxcnsls/edit?usp=sharing)
+
+
+---
+
+
+[Пример моих баг-репортов](https://boomer10.atlassian.net/jira/software/projects/JDIV/boards/1/backlog)
